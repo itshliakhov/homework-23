@@ -1,0 +1,18 @@
+$value: 100;
+* {
+  margin: 0;
+  padding: 0;
+  button {
+    font-size: 24px;
+    border-radius: 25px;
+    border: 0;
+    width: $value*2;
+    height: $value*2;
+  }
+  p {
+    font-size: 40px;
+  }
+}
+
+
+
